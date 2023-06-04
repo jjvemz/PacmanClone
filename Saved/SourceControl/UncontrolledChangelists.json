@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Menu/Menu.umap",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/BackgroundMusic.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/HeroDeath.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/Jump.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/MenuSound.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/PickupDot.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/PickupPower.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/BackGroundMusic_Cue.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/Blueprints/Music_Controller.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/Blueprints/Widgets/Widget_MainMenu.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Menu/MainMenu.umap",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Levels/Level0.umap"
+			]
+		}
+	]
+}
