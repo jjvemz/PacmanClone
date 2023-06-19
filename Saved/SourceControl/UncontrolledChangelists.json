@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Menu/Menu.umap",
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/BackgroundMusic.uasset",
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/HeroDeath.uasset",
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/Jump.uasset",
@@ -14,10 +13,19 @@
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/PickupDot.uasset",
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/PickupPower.uasset",
 				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/audio/BackGroundMusic_Cue.uasset",
-				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/Blueprints/Music_Controller.uasset",
-				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/ThirdPerson/Blueprints/Widgets/Widget_MainMenu.uasset",
-				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Menu/MainMenu.umap",
-				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Levels/Level0.umap"
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/ThirdPerson/Blueprints/Music_Controller.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/ThirdPerson/Blueprints/Widgets/Widget_MainMenu.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/Menu/MainMenu.umap",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Levels/Level0.umap",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/ThirdPerson/Blueprints/MusicControls.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/Levels/LevelProps/MasterActor.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/ThirdPerson/Materials/M_Base.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/Levels/LevelProps/Base_Geometry.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/ThirdPerson/Materials/MI_Base.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacmanClone/Content/ThirdPerson/Enum/GeometryType.uasset",
+				"C:/Users/juan2/Documents/Unreal Projects/PacManClone/Content/Menu/Menu.umap"
 			]
 		}
 	]
